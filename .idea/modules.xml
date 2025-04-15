@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/arquiteturaspring.iml" filepath="$PROJECT_DIR$/.idea/arquiteturaspring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arquiteturaspring/arquiteturaspring.iml" filepath="$PROJECT_DIR$/arquiteturaspring/arquiteturaspring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/montadora.iml" filepath="$PROJECT_DIR$/.idea/montadora.iml" />
     </modules>
   </component>
 </project>
